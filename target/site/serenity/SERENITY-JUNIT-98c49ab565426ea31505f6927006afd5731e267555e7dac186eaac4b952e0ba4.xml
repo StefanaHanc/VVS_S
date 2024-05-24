@@ -1,1 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="org.example.features.search.TestLogin" skipped="0" tests="1" time="7.9" timestamp="2024-05-23 06:06:59"><testcase classname="org.example.features.search.TestLogin" name="Searching by keyword apple should display the corresponding article"/></testsuite>

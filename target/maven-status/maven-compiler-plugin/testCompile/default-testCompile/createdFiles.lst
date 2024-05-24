@@ -1,4 +1,10 @@
-org\example\features\search\SearchByKeywordStory.class
+org\example\steps\serenity\CartSteps.class
+org\example\TestLoginFailed.class
+org\example\steps\serenity\MainSteps.class
+org\example\TestPlaceOrder.class
 org\example\features\search\package-info.class
-org\example\steps\serenity\EndUserSteps.class
-org\example\pages\DictionaryPage.class
+org\example\pages\CartPage.class
+org\example\TestLogin.class
+org\example\pages\ProductPage.class
+org\example\steps\serenity\ProductSteps.class
+org\example\pages\MainPage.class

@@ -1,2 +1,4 @@
 "Story","Title","Result","Date","Stability","Duration (s)"
-"Search by keyword story","Searching by keyword apple should display the corresponding article","SUCCESS","2024-05-23T12:20:37.1309534+03:00[Europe/Athens]","0.0","3.58"
+"Test login","Login","SUCCESS","2024-05-24T09:00:11.9734553+03:00[Europe/Athens]","0.0","10.91"
+"Test login failed","Login","SUCCESS","2024-05-24T09:01:07.4378749+03:00[Europe/Athens]","0.0","11.42"
+"Test place order","Place order","SUCCESS","2024-05-24T09:02:07.975202+03:00[Europe/Athens]","0.0","22.02"
